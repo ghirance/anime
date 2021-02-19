@@ -5,69 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="" href="style.css">
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
-<style> 
-html,body {
-  height:100%;
-  overflow-x: hidden;
-}
-#center {
-  position:relative;
-  text-align:center;
-  bottom:50%;
-  left:50%;
-  transform: translate(-50%, -50%);
-
-}  
-#fsize{ 
-  font-size:50px;
-}
-
-.a{
-  display: block;
-  width: 200px;
-  height: 40px;
-  line-height: 30px;
-  font-size: 18px;
-  font-family: sans-serif;
-  text-decoration: none;
-  color: red;
-  border: 5px double white;
-  letter-spacing: 2px;
-  text-align: center;
-  position: absolute;
-  transition: all .35s;
-}
-
-.a span{
-  position: relative;
-  z-index: 2;
-}
-
-.a:after{
-  position: absolute;
-  content: "";
-  top: 0;
-  left: 0;
-  width: 0;
-  height: 100%;
-  background: red;
-  transition: all .35s;
-}
-
-.a:hover{
-  color:white;
-  border:5px double red;
-}
-
-.a:hover:after{
-  width: 100%;
-}
-
-</style>
+    
 </head>
     <title>Anime</title>
 </head>
@@ -89,9 +32,9 @@ html,body {
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#"></a>
-      </li>    
+      </li>
     </ul>
-  </div>  
+  </div>
 </nav>
     <div id = "container">
     <div><img src="video.gif" alt="logo" style="height:720"></div>
