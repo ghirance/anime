@@ -57,7 +57,7 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 </div>
 
 <div class="jumbotron jumbotron-fluid bg-dark text-center" >
-  <p>Footer</p>
+  <footer> footer</footer>
 </div>
 
 
