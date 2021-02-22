@@ -9,11 +9,7 @@ html,body {
   left:50%;
   transform: translate(-50%, -50%);
 }  
-#navfont{ 
-  font-size:20px;
-  font-weight: bold;
-  padding-left:50px;
-}
+
 
 .a{
   display: block;
@@ -90,7 +86,13 @@ html,body {
     font-size: 30px;
   }
 }
-
-.navbar-custom .nav-item.active .nav-link{
-  color:red;
+.navbar-nav > li{
+  padding-left:30px;
+  padding-right:30px;
 }
+#row1{
+  padding-top:30px;
+}
+
+    
+    

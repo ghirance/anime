@@ -9,31 +9,52 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src = "transparent.js"></script>
     
 <title>Anime Stop</title>
 </head>
 <body>
-<nav class="navbar navbar-expand-sm bg-dark navbar-custom fixed-top">
-<a href="#">
-<img src="logo.png" alt="Logo" style="width:70px;">
-</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+<!-- Navbar -->
+<nav class="navbar navbar-expand-md navbar-light bg-dark fixed-top">
+
+<!-- Collapse button -->
+ <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#basicExampleNav11"
+    aria-controls="basicExampleNav11" aria-expanded="false" aria-label="Toggle navigation" style = "padding:0%;border:0px" >
     <span class="navbar-toggler-icon"></span>
   </button>
-  <div class="collapse navbar-collapse" id="collapsibleNavbar">
-    <ul class="navbar-nav navbar-custom" id = "navfont">
+
+  <!-- Logo -->
+  <a class="navbar-brand mx-auto d-block" href="#!">
+    <img src="logo.png" height = "60" style= "padding-right:30px">
+  </a>
+
+  <!-- Links -->
+  <div class="collapse navbar-collapse" id="basicExampleNav11">
+
+    <!-- Right -->
+    <ul class="navbar-nav ml-auto">
       <li class="nav-item">
-        <a class="nav-link" href="#">Clothes</a>
+        <a href="#!" class="nav-link waves-effect">
+         Home
+        </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Products</a>
+        <a href="#!" class="nav-link waves-effect">
+          Contact
+        </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#"></a>
+        <a href="#!" class="nav-link waves-effect">
+          Sign in
+        </a>
       </li>
     </ul>
+
   </div>
+  <!-- Links -->
+
 </nav>
+<!-- Navbar -->
 </div>
 <div class="box">
   <img src="video.gif" class = "img-responsive" alt="header image" style = "width:100%"/>
@@ -42,7 +63,40 @@
         <div><a class = "a" href="#" id = "center"><span>Shop Now</span></a></div>
   </div>
 </div>
+  <div class = "container">
+    <div class="row" id = "row1">
+      <div class="col-sm"><a href = "#!">
+            <img src = "Figures/blue.jpg" class = "mx-auto d-block " >
+            <h3 style = "text-align:center">Tanjiro</h3>
+        </a>
+        <h5 style = "text-align:center">P300</h5></div>
+      <div class="col-sm"><a href = "#!">
+            <img src = "Figures/pink.jpg" class = "mx-auto d-block " >
+            <h3 style = "text-align:center">Tanjiro</h3>
+        </a>
+        <h5 style = "text-align:center">P300</h5></div>
+      <div class="col-sm">
+      <a href = "#!">
+            <img src = "Figures/red.jpg" class = "mx-auto d-block " >
+            <h3 style = "text-align:center">Tanjiro</h3>
+        </a>
+        <h5 style = "text-align:center">P300</h5>
+      </div>
+      <div class="col-sm">
+        <a href = "#!">
+            <img src = "Figures/yellow.jpg" class = "mx-auto d-block " >
+            <h3 style = "text-align:center">Tanjiro</h3>
+        </a>
+        <h5 style = "text-align:center">P300</h5>
+      </div>
+       
+      
+      
+    </div>
+</div>
+
 <div class = "container">
+
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 Why do we use it?
 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
