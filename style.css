@@ -8,7 +8,7 @@ html,body {
   bottom:50%;
   left:50%;
   transform: translate(-50%, -50%);
-}  
+}
 
 
 .a{
@@ -24,7 +24,7 @@ html,body {
   letter-spacing: 2px;
   text-align: center;
   position: absolute;
- 
+
 }
 
 .a span{
@@ -54,17 +54,17 @@ html,body {
   min-height: 100vh;
 }
 #content-wrap {
-  padding-bottom: 2.5rem; 
+  padding-bottom: 2.5rem;
 }
 #footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 2.5rem;           
+  height: 2.5rem;
 }
 .box{
   position:relative;
-  
+
 }
 .img-title{
   position: absolute;
@@ -94,5 +94,14 @@ html,body {
   padding-top:30px;
 }
 
-    
-    
+#footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
+
+</style>
