@@ -70,13 +70,8 @@
   <img src="video.gif" class = "img-responsive" alt="header image" style = "width:100%">
   <div class="img-title">
         <div><h1 id = "center" style = "color:red" class = "example">ANIME STOP</h1></div>
-<<<<<<< HEAD
         <div><a class = "a" href="#" id = "center"><span>Shop Now</span></a></div>
   </div>
-=======
-        <div><a class = "a" href="shopNow.php" id = "center"><span>Shop Now</span></a></div>
-  </div>
->>>>>>> 53e7cbfbf23d43865e2038fbec30c1bb84f8d6c0
 </div>
   <div class = "container">
   <div class = "d-flex justify-content-center" style = "padding-top:30px">
