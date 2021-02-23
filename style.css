@@ -1,6 +1,8 @@
 html,body {
   height:100%;
   overflow-x: hidden;
+  
+  
 }
 #center {
   position:relative;
@@ -51,16 +53,18 @@ html,body {
 }
 #page-container {
   position: relative;
-  min-height: 100vh;
+  min-height:30px;
 }
 #content-wrap {
-  padding-bottom: 2.5rem;
+  padding-bottom: 10rem;
 }
 #footer {
   position: absolute;
-  bottom: 0;
+  bottom:0px;
+  margin-bottom: auto;
   width: 100%;
-  height: 2.5rem;
+  height: 5rem;
+
 }
 .box{
   position:relative;
@@ -87,13 +91,46 @@ html,body {
   }
 }
 .navbar-nav > li{
-  padding-left:30px;
-  padding-right:30px;
+  padding-left:50px;
+
 }
 #row1{
   padding-top:30px;
+  
 }
+.navbar-nav li a{
+  color: black!important;
+  }
+.navbar-nav li a:hover{
+  color: grey !important;
+  }
 
+.bg-company-red {
+  background-color: white !important;
+}
+#bd {
+  background-color:black;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+#fontH{
+  color:black;
 
+  font-size: 26px;
+  font-weight: bold;
+}
+#fontF{
+  color:black;
+  font-size: 14
+  px;
+  text-align: center;
 
-
+}
+#qwe{
+  color:red;
+}
