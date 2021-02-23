@@ -70,8 +70,13 @@
   <img src="video.gif" class = "img-responsive" alt="header image" style = "width:100%">
   <div class="img-title">
         <div><h1 id = "center" style = "color:red" class = "example">ANIME STOP</h1></div>
+<<<<<<< HEAD
         <div><a class = "a" href="#" id = "center"><span>Shop Now</span></a></div>
-  </div>     
+  </div>
+=======
+        <div><a class = "a" href="shopNow.php" id = "center"><span>Shop Now</span></a></div>
+  </div>
+>>>>>>> 53e7cbfbf23d43865e2038fbec30c1bb84f8d6c0
 </div>
   <div class = "container">
   <div class = "d-flex justify-content-center" style = "padding-top:30px">
@@ -188,14 +193,14 @@
 <div class = "container">
   <h2></h2>
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make 
+standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
 a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining
-essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
+essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
 and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make 
+standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
 a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining
-essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
+essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
 and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 </div>
 
@@ -211,15 +216,15 @@ and more recently with desktop publishing software like Aldus PageMaker includin
             <div class="col-xl-3" id = "fontF">Let's Keep In Touch
                 <div><a href = "#!"> <img src="fb.png" style = "height:24px"></a>
                 <a href = "#!"> <img src="twt.png" style = "height:24px"></a>
-                </div>  
+                </div>
             </div>
 
-            
+
           </div>
-          
+
         </div>
-        
-       
+
+
 </footer>
 <footer class="bg-light text-white ">
     <div class="container-fluid py-3 ">
