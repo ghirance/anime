@@ -1,8 +1,8 @@
 html,body {
   height:100%;
   overflow-x: hidden;
-  
-  
+
+
 }
 #center {
   position:relative;
@@ -90,13 +90,19 @@ html,body {
     font-size: 30px;
   }
 }
+
+@font-face {
+  src:url(Fonts/japFont.ttf);
+  font-family: japFont;
+}
+
 .navbar-nav > li{
   padding-left:50px;
 
 }
 #row1{
   padding-top:30px;
-  
+
 }
 .navbar-nav li a{
   color: black!important;
@@ -107,6 +113,10 @@ html,body {
 
 .bg-company-red {
   background-color: white !important;
+}
+
+.collect{
+  font-family: japFont;
 }
 #bd {
   background-color:black;
