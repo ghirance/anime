@@ -248,7 +248,7 @@
   </div>
 </div>
 <!-- Content End -->
-
+<!-- endo -->
 <!-- 2ndFooter-->
 <div class = "d-flex justify-content-center" style = "padding-top:30px">
 <a href="all-products.php" id = "bd">Shop All Products</a>
