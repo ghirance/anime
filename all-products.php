@@ -67,17 +67,14 @@
 <!-- Navbar End-->
 </div>
 <div class="box">
-  <img src="video.gif" class = "img-responsive" alt="header image" style = "width:100%">
+  <img src="narutos.jpg" class = "img-responsive" alt="header image" style = "width:210vh;height:70vh">
   <div class="img-title">
-        <div><h1 id = "center" style = "color:red">ANIME STOP</h1></div>
-        <div><a class = "a" href="#" id = "center"><span>Shop Now</span></a></div>
+        <div><h1 id = "center" style = "color:white">ALL PRODUCTS</h1></div>
+        
   </div>     
 </div>
 <!-- Content -->
-<div class = "container-fluid">
-  <div class = "d-flex justify-content-center" style = "padding-top:30px">
-    <span id = "fontH">ALL PRODUCTS</span>
-  </div>
+<div class = "container">
   <div class="row d-flex justify-content-center">
     <div class="col-sm-3 container_foto">
       <a href = "#!"  id = "fontQ">
@@ -251,7 +248,7 @@
 
 <!-- 2ndFooter-->
 <div class = "d-flex justify-content-center" style = "padding-top:30px">
-<a href="all-products.php" id = "bd">Shop All Products</a>
+<a href="#" id = "bd">Load More</a>
 </div>
 <div class = "container" style = "padding-top:30px">
 

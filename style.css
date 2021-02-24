@@ -79,6 +79,7 @@ html,body {
   letter-spacing: 3px;
 }
 
+
 @media screen and (min-width: 601px) {
   .example {
     font-size: 70px;
@@ -126,7 +127,76 @@ html,body {
 }
 #fontF{
   color:black;
-  font-size: 14
-  px;
+  font-size: 14px;
   text-align: center;
+ 
+}
+#fontQ{
+  color:black;
+  text-align: center;
+  text-decoration: none;
+}
+#fontA{
+  background-color: black;
+  color: white;
+  padding:10px 35px;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+}
+
+
+h5{
+  text-align: center;
+  font-size: small;
+  font-weight: unset;
+  
+}
+h4{
+  text-align: center;
+  font-size: medium;
+  font-weight: unset;
+  padding-top: 50px;
+  margin-bottom: 0%;
+  
+}
+.container_foto:hover {
+	cursor: pointer;
+  
+}
+.container_foto img {
+	width: 100%;
+	top: 0;
+	left: 0;
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	transition: all 1s ease;
+}
+
+.ver_mas {
+  opacity: 0;
+  -webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	transition: all 1s ease;
+
+
+}
+
+/*hovers*/
+
+.container_foto:hover img {
+	transform: scale(1.1);
+  opacity: 0.5;
+  
+
+}
+
+
+.container_foto:hover .ver_mas {
+	opacity: 1;
+
 }
