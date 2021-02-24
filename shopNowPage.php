@@ -65,14 +65,6 @@
   <!-- Links -->
 </nav>
 <!-- Navbar -->
-</div>
-<div class="box">
-  <img src="video.gif" class = "img-responsive" alt="header image" style = "width:100%">
-  <div class="img-title">
-        <div><h1 id = "center" style = "color:red" class = "example">ANIME STOP</h1></div>
-        <div><a class = "a" href="#" id = "center"><span>Shop Now</span></a></div>
-  </div>
-</div>
 
 </footer>
 <footer class="bg-light text-white ">
