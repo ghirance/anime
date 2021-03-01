@@ -23,7 +23,7 @@
   </button>
 
   <!-- Logo -->
-  <a class="navbar-brand mx-auto d-block" href="#!">
+  <a class="navbar-brand mx-auto d-block" href="homepage.php">
     <img src="logos.png" height = "60" style= "padding-right:30px">
   </a>
 
@@ -32,7 +32,7 @@
     <!-- Right -->
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
-        <a href="#!" class="nav-link waves-effect">
+        <a href="homepage.php" class="nav-link waves-effect">
          Home
         </a>
       </li>
@@ -47,7 +47,7 @@
         </a>
       </li>
       <li class="nav-item">
-        <a href="#!">
+        <a href="login.php">
         <img src = "person_outline-24px.svg" style = "padding-top:5px">
         </a>
       </li>
@@ -272,7 +272,7 @@ and more recently with desktop publishing software like Aldus PageMaker includin
 <footer class="bg-light text-white bg-company-red ">
   <div class="container py-5 ">
     <div class="row " >
-      <div class="col-xl-3" id = "fontF"><img src="logos.png" height = "60"></div>
+      <div class="col-xl-3" id = "fontF"><a href = "homepage.php"><img src="logos.png" height = "60"></a></div>
       <div class="col-xl-3"></div>
       <div class="col-xl-3"></div>
       <div class="col-xl-3" id = "fontF" >Let's Keep In Touch

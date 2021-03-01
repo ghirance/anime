@@ -1,0 +1,127 @@
+html,body {
+    height:100%;
+    overflow-x: hidden;
+    
+    
+  }
+  
+  #page-container {
+    position: relative;
+    min-height:30px;
+  }
+  #content-wrap {
+    padding-bottom: 10rem;
+  }
+  #footer {
+    position: absolute;
+    bottom:0px;
+    margin-bottom: auto;
+    width: 100%;
+    height: 5rem;
+  
+  }
+  .box{
+    position:relative;
+  
+  }
+  .img-title{
+    position: absolute;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 40%;
+    letter-spacing: 3px;
+  }
+  
+  
+  @media screen and (min-width: 601px) {
+    .example {
+      font-size: 70px;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    .example {
+      font-size: 30px;
+    }
+  }
+  .navbar-nav > li{
+    padding-left:50px;
+  
+  }
+  #row1{
+    padding-top:30px;
+    
+  }
+  .navbar-nav li a{
+    color: black!important;
+    }
+  .navbar-nav li a:hover{
+    color: grey !important;
+    }
+  
+  .bg-company-red {
+    background-color: white !important;
+  }
+  #bd {
+    background-color:black;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+  }
+  #fontH{
+    color:black;
+  
+    font-size: 26px;
+    font-weight: bold;
+  }
+  #fontF{
+    color:black;
+    font-size: 14px;
+    text-align: center;
+   
+  }
+  #fontQ{
+    color:black;
+    text-align: center;
+    text-decoration: none;
+  }
+  #fontA{
+    background-color: black;
+    color: white;
+    padding:10px 35px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 10px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }  
+  button {
+    background-color: black;
+    color: white;
+    padding: 8px;
+    margin: 50px 0;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  #row1{
+      padding-top:10%;
+      padding-bottom: 10%;
+      text-align: center;
+  }
