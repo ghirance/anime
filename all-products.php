@@ -37,12 +37,12 @@
         </a>
       </li>
       <li class="nav-item">
-        <a href="#!" class="nav-link waves-effect">
+        <a href="shopnow.php" class="nav-link waves-effect">
          Shop
         </a>
       </li>
       <li class="nav-item">
-        <a href="#!" class="nav-link waves-effect">
+        <a href="contact.php" class="nav-link waves-effect">
           Contact
         </a>
       </li>
@@ -251,17 +251,11 @@
 <a href="#" id = "bd">Load More</a>
 </div>
 <div class = "container" style = "padding-top:30px">
+<blockquote class="blockquote">
+  <p>"Knowing what it feels to be in pain, is exactly why we try to be kind to others."</p>
+  <footer class="blockquote-footer">Jiraiya from Naruto</footer>
+</blockquote>
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make 
-a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining
-essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
-standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make 
-a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining
-essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 </div>
 <!-- 2ndFooter End -->
 

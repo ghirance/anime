@@ -37,12 +37,12 @@
         </a>
       </li>
       <li class="nav-item">
-        <a href="#!" class="nav-link waves-effect">
+        <a href="shopnow.php" class="nav-link waves-effect">
          Shop
         </a>
       </li>
       <li class="nav-item">
-        <a href="#!" class="nav-link waves-effect">
+        <a href="contact.php" class="nav-link waves-effect">
           Contact
         </a>
       </li>
@@ -68,10 +68,7 @@
 </div>
 <div class="box">
   <img src="video.gif" class = "img-responsive" alt="header image" style = "width:100%">
-  <div class="img-title">
-        <div><h1 id = "center" style = "color:red">ANIME STOP</h1></div>
-        <div><a class = "a" href="#" id = "center"><span>Shop Now</span></a></div>
-  </div>
+  
 </div>
 <!-- Content -->
 <div class = "container-fluid">
@@ -122,19 +119,19 @@
   </div>
   <div class="row ">
     <div class="col-sm container_foto ">
-      <a href = "#!"  id = "fontQ">
+      <a href = "prod_1.php"  id = "fontQ">
         <img src = "Figures/giyu.jpg" class = "mx-auto d-block">
-        <h4>Giyu</h4>
+        <h4>Giyu Chibi</h4>
       </a>
       <h5>₱1499.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "#!" id = "fontA">View</a>
+        <a href = "prod_1.php" id = "fontA">View</a>
       </div>
     </div>
     <div class="col-sm container_foto">
       <a href = "#!" id = "fontQ">
         <img src = "Figures/nezuko.jpg" class = "mx-auto d-block" >
-        <h4>Nezuko</h4>
+        <h4>Nezuko Chibi</h4>
       </a>
       <h5><s>₱1499.00</s>  ₱1399.00</h5>
       <div class="ver_mas" id = "center">
@@ -144,7 +141,7 @@
     <div class="col-sm container_foto">
       <a href = "#!" id = "fontQ">
         <img src = "Figures/zenitsu.jpg" class = "mx-auto d-block " >
-        <h4>Zenitsu</h4>
+        <h4>Zenitsu Chibi/h4>
       </a>
       <h5>₱1299.00</h5>
       <div class="ver_mas" id = "center">
@@ -154,7 +151,7 @@
     <div class="col-sm container_foto">
       <a href = "#!" id = "fontQ">
         <img src = "Figures/tanjiro.jpg" class = "mx-auto d-block " >
-        <h4>Tanjiro</h4>
+        <h4>Tanjiro Chibi</h4>
       </a>
       <h5><s>₱1499.00</s>  ₱1399.00</h5>
       <div class="ver_mas" id = "center">
@@ -256,9 +253,9 @@
 <div class = "container" style = "padding-top:30px">
 
   <blockquote class="blockquote">
-      <p>"Knowing what it feels to be in pain, is exactly why we try to be kind to others."</p>
-      <footer class="blockquote-footer">Jiraiya from Naruto</footer>
-    </blockquote>
+    <p>"Knowing what it feels to be in pain, is exactly why we try to be kind to others."</p>
+    <footer class="blockquote-footer">Jiraiya from Naruto</footer>
+  </blockquote>
 </div>
 <!-- 2ndFooter End -->
 

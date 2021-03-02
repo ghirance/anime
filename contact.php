@@ -37,12 +37,12 @@
         </a>
       </li>
       <li class="nav-item">
-        <a href="#!" class="nav-link waves-effect">
+        <a href="shopnow.php" class="nav-link waves-effect">
          Shop
         </a>
       </li>
       <li class="nav-item">
-        <a href="contact.php" class="nav-link waves-effect">
+        <a href="#!" class="nav-link waves-effect">
           Contact
         </a>
       </li>
@@ -68,42 +68,33 @@
 </div>
 
 <!-- Content -->
-<div class = "container ">
-    
-    <form>
-        <div class = "row" id="row1">
-            <div class = "col-md-12">
-                <h1>Login</h1>
-            </div>
-        </div>
-    
-        <div class = "row d-flex justify-content-center">
-            <div class = "col-sm-3">
-                <label for="uname"><b>Username</b></label><br>
-                <input type="text" name="uname" required>
-            </div>
-	        <div class = "col-sm-3">
-                <label for="psw"><b>Password</b></label>
-                <input type="password" name="psw" required>
-            </div>
-        </div>
-        <div class = "row">
-            <div class = "col-md-12" style = "text-align:center">
-                <button type="submit">Sign in</button>
-            </div>
-        </div>
-        <div class = "row">
-            <div class = "col-md-12" style = "text-align:center">
-                <a href ="#!" id = "fontQ">Sign Up</a>
-            </div>
-        </div>
-        <div class = "row">
-            <div class = "col-md-12" style = "text-align:center">
-                <a href ="#!" id = "fontQ">Forget Password</a>
-            </div>
-            
-        </div>
-    </form>
+<div class = "container">
+    <div class = "row" style = "margin-top:10%;padding-top:10px;padding-bottom:5%" >
+        <div class = "col-md-12" style = "text-align:center">
+            <h3>Contact</h3>
+        </div> 
+    </div>
+    <div class = "row">
+        <div class = "col-md-12">
+            <form>
+                Name: <br>
+                <input type = "text" ></input><br>
+                Email: <br>
+                <input type = "text" ></input><br>
+                Subject: <br>
+                <input type = "text" ></input><br>
+                Message: <br>
+                <textarea  style = "width:100%;padding-bottom:30vh"></textarea>
+            </form>
+        </div>  
+    </div>
+    <div class = "row">
+        <div class = "col-md-12" style = "text-align:center">
+            <h5>Email:</h5>animestop@gmail.com<h5>Location:</h5>Malinao,Pasig City<h5>Phone:</h5>09123456789
+        </div> 
+    </div>
+
+
 </div>
 <!-- Content End -->
 

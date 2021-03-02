@@ -37,7 +37,7 @@
         </a>
       </li>
       <li class="nav-item">
-        <a href="#!" class="nav-link waves-effect">
+        <a href="shopnow.php" class="nav-link waves-effect">
          Shop
         </a>
       </li>
@@ -68,42 +68,32 @@
 </div>
 
 <!-- Content -->
-<div class = "container ">
+<div class = "container-fluid">
+<div class = "row" style = "margin-top:15%;padding-top:30px;padding-bottom:15%" >
+    <div class = "col-md-6" style = "text-align:center;padding-top:30px">
+        <img src = "Figures/giyu.jpg">
+    </div>
+    <div class = "col-md-6">
+        <div> <h2 style = "font-weight:bold">Giyu Chibi </h2></div>
+        <div>&nbsp;</div>
+        <div> <h5>₱1499.00</h5></div>
+        <div>&nbsp;</div>
+        <div class="select-wrap">
+            <label>QTY</label><br>
+            <select name="color" style="width:8%">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+            </select>
+        </div>
+        <div>&nbsp;</div>
+        <div><a href="all-products.php" id = "bd">Add to Cart</a></div>
+    </div>
     
-    <form>
-        <div class = "row" id="row1">
-            <div class = "col-md-12">
-                <h1>Login</h1>
-            </div>
-        </div>
-    
-        <div class = "row d-flex justify-content-center">
-            <div class = "col-sm-3">
-                <label for="uname"><b>Username</b></label><br>
-                <input type="text" name="uname" required>
-            </div>
-	        <div class = "col-sm-3">
-                <label for="psw"><b>Password</b></label>
-                <input type="password" name="psw" required>
-            </div>
-        </div>
-        <div class = "row">
-            <div class = "col-md-12" style = "text-align:center">
-                <button type="submit">Sign in</button>
-            </div>
-        </div>
-        <div class = "row">
-            <div class = "col-md-12" style = "text-align:center">
-                <a href ="#!" id = "fontQ">Sign Up</a>
-            </div>
-        </div>
-        <div class = "row">
-            <div class = "col-md-12" style = "text-align:center">
-                <a href ="#!" id = "fontQ">Forget Password</a>
-            </div>
-            
-        </div>
-    </form>
+</div>
+
 </div>
 <!-- Content End -->
 
