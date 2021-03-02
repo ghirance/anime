@@ -10,6 +10,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src = "transparent.js"></script>
+    <script src ="script.js">
+
+    </script>
 <title>Anime Stop</title>
 </head>
 <body>
@@ -24,7 +27,7 @@
 
   <!-- Logo -->
   <a class="navbar-brand mx-auto d-block" href="homepage.php">
-    <img src="logos.png" height = "60" style= "padding-right:30px">
+    <img src="Figures/logos.png" height = "60" style= "padding-right:30px">
   </a>
 
   <!-- Links -->
@@ -48,16 +51,16 @@
       </li>
       <li class="nav-item">
         <a href="login.php">
-        <img src = "person_outline-24px.svg" style = "padding-top:5px">
+        <img src = "Figures/person_outline-24px.svg" style = "padding-top:5px">
         </a>
       </li>
       <li class="nav-item">
         <a href="#!" >
-          <img src = "local_mall-24px.svg" style = "padding-top:5px">
+          <img src = "Figures/local_mall-24px.svg" style = "padding-top:5px">
       </li>
       <li class="nav-item">
         <a href="#!" >
-          <img src = "search-24px.svg" style = "padding-top:5px">
+          <img src = "Figures/search-24px.svg" style = "padding-top:5px">
         </a>
       </li>
     </ul>
@@ -67,7 +70,7 @@
 <!-- Navbar End-->
 </div>
 <div class="box">
-  <img src="video.gif" class = "img-responsive" alt="header image" style = "width:100%">
+  <img src="Figures/video.gif" class = "img-responsive" alt="header image" style = "width:100%">
 
 </div>
 <!-- Content -->
@@ -75,6 +78,8 @@
   <div class = "d-flex justify-content-center" style = "padding-top:30px">
     <span id = "fontH">ALL PRODUCTS</span>
   </div>
+  <!-- overlay practice -->
+
   <div class="row d-flex justify-content-center">
     <div class="col-sm-3 container_foto">
       <a href = "#!"  id = "fontQ">
@@ -204,7 +209,7 @@
   <div class="row">
     <div class="col-sm container_foto ">
       <a href = "#!"  id = "fontQ">
-        <img src = "Figures/naruto.jpg" class = "mx-auto d-block">
+        <img src = "Figures/naruto1.jpg" class = "mx-auto d-block">
         <h4>Naruto Chibi</h4>
       </a>
       <h5><s>₱1199.99</s>  ₱1399.00</h5>
@@ -263,13 +268,13 @@
 <footer class="bg-light text-white bg-company-red ">
   <div class="container py-5 ">
     <div class="row " >
-      <div class="col-xl-3" id = "fontF"><a href = "homepage.php"><img src="logos.png" height = "60"></a></div>
+      <div class="col-xl-3" id = "fontF"><a href = "homepage.php"><img src="Figures/logos.png" height = "60"></a></div>
       <div class="col-xl-3"></div>
       <div class="col-xl-3"></div>
       <div class="col-xl-3" id = "fontF" >Let's Keep In Touch
         <div>
-          <a href = "#!"> <img src="fb.png" style = "height:24px"></a>
-          <a href = "#!"> <img src="twt.png" style = "height:24px"></a>
+          <a href = "#!"> <img src="Figures/fb.png" style = "height:24px"></a>
+          <a href = "#!"> <img src="Figures/twt.png" style = "height:24px"></a>
         </div>
       </div>
     </div>
