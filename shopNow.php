@@ -76,7 +76,7 @@
     <div class="row ">
       <div class="col-sm container_foto ">
         <a href = "#!"  id = "fontQ">
-          <img src = "Figures/giyu.jpg" class = "mx-auto d-block">
+          <img src = "Figures/tshirts.jfif" class = "mx-auto d-block">
           <h3 class = "h1a">T-Shirts</h3>
         </a>
         <div class="ver_mas" id = "center">
@@ -86,7 +86,7 @@
 
       <div class="col-sm container_foto">
         <a href = "#!" id = "fontQ">
-          <img src = "Figures/nezuko.jpg" class = "mx-auto d-block" >
+          <img src = "Figures/hoodie.jpg" class = "mx-auto d-block" >
           <h3 class = "h1a">Hoodies</h3>
         </a>
         <div class="ver_mas" id = "center">
@@ -96,7 +96,7 @@
 
       <div class="col-sm container_foto">
         <a href = "#!" id = "fontQ">
-          <img src = "Figures/zenitsu.jpg" class = "mx-auto d-block " >
+          <img src = "Figures/kimono.jpg" class = "mx-auto d-block " >
           <h3 class = "h1a">Kimonos</h3>
         </a>
         <div class="ver_mas" id = "center">
@@ -106,7 +106,7 @@
 
       <div class="col-sm container_foto">
         <a href = "#!" id = "fontQ">
-          <img src = "Figures/tanjiro.jpg" class = "mx-auto d-block " >
+          <img src = "Figures/collections.jpg" class = "mx-auto d-block " >
           <h3 class = "h1a">Collectibles</h3>
         </a>
         <div class="ver_mas" id = "center">
