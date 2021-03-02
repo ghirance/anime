@@ -99,6 +99,12 @@ html,body {
   padding-top:30px;
 
 }
+
+#style{
+  background-color:#d3d3d3;
+}
+
+
 .navbar-nav li a{
   color: black!important;
   }

@@ -40,7 +40,7 @@
         </a>
       </li>
       <li class="nav-item">
-        <a href="shopnow.php" class="nav-link waves-effect">
+        <a href="all-products.php" class="nav-link waves-effect">
          Shop
         </a>
       </li>
@@ -76,175 +76,175 @@
 <!-- Content -->
 <div class = "container-fluid">
   <div class = "d-flex justify-content-center" style = "padding-top:30px">
-    <span id = "fontH">ALL PRODUCTS</span>
+    <span id = "fontH" class = "h1a">ALL PRODUCTS</span>
   </div>
   <!-- overlay practice -->
 
   <div class="row d-flex justify-content-center">
     <div class="col-sm-3 container_foto">
-      <a href = "#!"  id = "fontQ">
+      <a href = "prod_1.php"  id = "fontQ">
         <img src = "Figures/kimono-1.jpg" class = "mx-auto d-block">
         <h4>Giyu's Kimono</h4>
       </a>
-      <h5><s>₱1199.00</s>  P1399.00</h5>
+      <h5><s>₱1499.00</s>  P1399.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "#!" id = "fontA">View</a>
+        <a href = "prod_1.php" id = "fontA">View</a>
       </div>
     </div>
     <div class="col-sm-3 container_foto">
-      <a href = "#!" id = "fontQ">
+      <a href = "prod_2.php" id = "fontQ">
         <img src = "Figures/kimono-2.jpg" class = "mx-auto d-block" >
         <h4>Nezuko's Kimono</h4>
       </a>
-      <h5>₱1199.00</h5>
+      <h5><s>₱1499.00</s>  P1399.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "#!" id = "fontA">View</a>
+        <a href = "prod_2.php" id = "fontA">View</a>
       </div>
     </div>
     <div class="col-sm-3 container_foto">
-      <a href = "#!" id = "fontQ">
+      <a href = "prod_3.php" id = "fontQ">
         <img src = "Figures/kimono-3.jpg" class = "mx-auto d-block " >
         <h4>Zenitsu's Kimono</h4>
       </a>
-      <h5><s>₱1199.00</s>P1399.00</h5>
+      <h5><s>₱1499.00</s>  P1399.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "#!" id = "fontA">View</a>
+        <a href = "prod_3.php" id = "fontA">View</a>
       </div>
     </div>
     <div class="col-sm-3 container_foto">
-      <a href = "#!" id = "fontQ">
+      <a href = "prod_4.php" id = "fontQ">
         <img src = "Figures/kimono-4.jpg" class = "mx-auto d-block " >
         <h4>Tanjiro's Kimono</h4>
       </a>
-      <h5>₱1199.00</h5>
+      <h5><s>₱1499.00</s>  P1399.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "#!" id = "fontA">View</a>
+        <a href = "prod_4.php" id = "fontA">View</a>
       </div>
     </div>
   </div>
   <div class="row ">
     <div class="col-sm container_foto ">
-      <a href = "prod_1.php"  id = "fontQ">
+      <a href = "prod_5.php"  id = "fontQ">
         <img src = "Figures/giyu.jpg" class = "mx-auto d-block">
         <h4>Giyu Chibi</h4>
       </a>
-      <h5>₱1499.00</h5>
+      <h5><s>₱1999.99</s>  ₱1899.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "prod_1.php" id = "fontA">View</a>
+        <a href = "prod_5.php" id = "fontA">View</a>
       </div>
     </div>
     <div class="col-sm container_foto">
-      <a href = "#!" id = "fontQ">
+      <a href = "prod_6.php" id = "fontQ">
         <img src = "Figures/nezuko.jpg" class = "mx-auto d-block" >
         <h4>Nezuko Chibi</h4>
       </a>
-      <h5><s>₱1499.00</s>  ₱1399.00</h5>
+      <h5><s>₱1999.99</s>  ₱1899.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "#!" id = "fontA">View</a>
+        <a href = "prod_6.php" id = "fontA">View</a>
       </div>
     </div>
     <div class="col-sm container_foto">
-      <a href = "#!" id = "fontQ">
+      <a href = "prod_7.php" id = "fontQ">
         <img src = "Figures/zenitsu.jpg" class = "mx-auto d-block " >
         <h4>Zenitsu Chibi/h4>
       </a>
-      <h5>₱1299.00</h5>
+      <h5><s>₱1999.99</s>  ₱1899.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "#!" id = "fontA">View</a>
+        <a href = "prod_7.php" id = "fontA">View</a>
       </div>
     </div>
     <div class="col-sm container_foto">
-      <a href = "#!" id = "fontQ">
+      <a href = "prod_8.php" id = "fontQ">
         <img src = "Figures/tanjiro.jpg" class = "mx-auto d-block " >
         <h4>Tanjiro Chibi</h4>
       </a>
-      <h5><s>₱1499.00</s>  ₱1399.00</h5>
+      <h5><s>₱1999.99</s>  ₱1899.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "#!" id = "fontA">View</a>
+        <a href = "prod_8.php" id = "fontA">View</a>
       </div>
     </div>
   </div>
   <div class="row">
     <div class="col-sm container_foto ">
-      <a href = "#!"  id = "fontQ">
+      <a href = "prod_9.php"  id = "fontQ">
         <img src = "Figures/hoodie-1.jpg" class = "mx-auto d-block">
         <h4>Naruto Fox</h4>
       </a>
-      <h5><s>₱1599.99</s>  P1499.00</h5>
+      <h5><s>₱1699.99</s>  P1599.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "#!" id = "fontA">View</a>
+        <a href = "prod_9.php" id = "fontA">View</a>
       </div>
     </div>
     <div class="col-sm container_foto">
-      <a href = "#!" id = "fontQ">
+      <a href = "prod_10.php" id = "fontQ">
         <img src = "Figures/hoodie-2.jpg" class = "mx-auto d-block" >
         <h4>Sasuke Angel</h4>
       </a>
-      <h5><s>P1499.00</s>  P1399.00</h5>
+      <h5><s>₱1699.99</s>  P1599.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "#!" id = "fontA">View</a>
+        <a href = "prod_10.php" id = "fontA">View</a>
       </div>
     </div>
     <div class="col-sm container_foto">
-      <a href = "#!" id = "fontQ">
+      <a href = "prod_11.php" id = "fontQ">
         <img src = "Figures/hoodie-3.jpg" class = "mx-auto d-block " >
         <h4>Triple Ninja</h4>
       </a>
-      <h5>P1399.00</h5>
+      <h5><s>₱1699.99</s>  P1599.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "#!" id = "fontA">View</a>
+        <a href = "prod_11.php" id = "fontA">View</a>
       </div>
     </div>
     <div class="col-sm container_foto">
-      <a href = "#!" id = "fontQ">
+      <a href = "#prod_12.php" id = "fontQ">
         <img src = "Figures/hoodie-4.jpg" class = "mx-auto d-block " >
-        <h4>Sasuke Greedy Mode</h4>
+        <h4>Itachi Greedy Mode</h4>
       </a>
-      <h5>₱1899.99</h5>
+      <h5><s>₱1699.99</s>  P1599.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "#!" id = "fontA">View</a>
+        <a href = "prod_12.php" id = "fontA">View</a>
       </div>
     </div>
   </div>
   <div class="row">
     <div class="col-sm container_foto ">
-      <a href = "#!"  id = "fontQ">
+      <a href = "prod_13.php"  id = "fontQ">
         <img src = "Figures/naruto1.jpg" class = "mx-auto d-block">
         <h4>Naruto Chibi</h4>
       </a>
-      <h5><s>₱1199.99</s>  ₱1399.00</h5>
+      <h5><s>₱1999.99</s>  ₱1899.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "#!" id = "fontA">View</a>
+        <a href = "prod_13.php" id = "fontA">View</a>
       </div>
     </div>
     <div class="col-sm container_foto">
-      <a href = "#!" id = "fontQ">
+      <a href = "prod_14.php" id = "fontQ">
         <img src = "Figures/sasuke.jpg" class = "mx-auto d-block" >
-        <h4>Sasuka Chibi</h4>
+        <h4>Sasuke Chibi</h4>
       </a>
-      <h5>₱1000.00</h5>
+      <h5><s>₱1999.99</s>  ₱1899.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "#!" id = "fontA">View</a>
+        <a href = "prod_14.php" id = "fontA">View</a>
       </div>
     </div>
     <div class="col-sm container_foto">
-      <a href = "#!" id = "fontQ">
+      <a href = "prod_15.php" id = "fontQ">
         <img src = "Figures/sakura.jpg" class = "mx-auto d-block " >
         <h4>Sakura Chibi</h4>
       </a>
-      <h5><s>₱1000.00</s>  ₱899.99</h5>
+      <h5><s>₱1999.99</s>  ₱1899.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "#!" id = "fontA">View</a>
+        <a href = "prod_15.php" id = "fontA">View</a>
       </div>
     </div>
     <div class="col-sm container_foto">
-      <a href = "#!" id = "fontQ">
+      <a href = "prod_16.php" id = "fontQ">
         <img src = "Figures/gaara.jpg" class = "mx-auto d-block " >
         <h4>Gaara Chibi</h4>
       </a>
-      <h5>₱799.99</h5>
+      <h5><s>₱1999.99</s>  ₱1899.00</h5>
       <div class="ver_mas" id = "center">
-        <a href = "#!" id = "fontA">View</a>
+        <a href = "prod_16.php" id = "fontA">View</a>
       </div>
     </div>
   </div>
@@ -255,7 +255,7 @@
 <div class = "d-flex justify-content-center" style = "padding-top:30px">
 <a href="all-products.php" id = "bd">Shop All Products</a>
 </div>
-<div class = "container" style = "padding-top:30px">
+<div class = "container" style = "padding-top:30px" align = "center">
 
   <blockquote class="blockquote">
       <p class = "font-weight-light">"When people get hurt, they learn to hate... When people hurt others, they become hated and racked with guilt. But knowing that pain allows people to be kind. Pain allows people to grow... and how you grow is up to you."</p>

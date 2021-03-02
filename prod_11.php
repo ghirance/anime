@@ -6,10 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="style1.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script data-require="jquery@3.1.1" data-semver="3.1.1" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script src = "transparent.js"></script>
+    <script src= "script.js"></script>
+
 <title>Anime Stop</title>
 </head>
 <body>
@@ -68,50 +70,70 @@
 </div>
 
 <!-- Content -->
-<div class = "container ">
+<div class = "container-fluid" id = "style">
+<div class = "row" style = "margin-top:15%;padding-top:30px;padding-bottom:15%" >
+    <div class = "col-sm-6" style = "text-align:center;padding-top:30px;padding-left:300px">
+        <img src = "Figures/hoodie-3.jpg">
+    </div>
+    <div class = "col-sm-6">
+        <div> <h2 style = "font-weight:bold" id = "h3a"> Triple Ninja </h2></div>
+        <div>&nbsp;</div>
+        <div> <h5 id = "h3a"><s>₱1699.99</s>&nbsp;&nbsp;&nbsp;  P1599.00</h5></div>
+        <div>&nbsp;</div>
+        <div class="quantity buttons_added">
+        Qty: <br>
+        <div class="quantity buttons_added">
+          <input type="button" value="-" class="minus">
+          <input type="number" step="1" min="1" max="" name="quantity" value="1" title="Qty" class="input-text qty text" size="4" pattern="" inputmode="">
+          <input type="button" value="+" class="plus">
+        </div>
+        </div>
+        <div class="container">
+    <button type="button" data-toggle="modal" data-target="#myModal">
+      Add to Cart
+    </button>
 
-    <form>
-        <div class = "row" id="row1">
-            <div class = "col-md-12">
-                <h1 id = "h3a">Login</h1>
-            </div>
-        </div>
+    <!-- The Modal -->
+      <div class="modal fade" id="myModal">
+        <div class="modal-dialog modal-dialog-centered modal-dialog modal-lg">
+          <div class="modal-content">
 
-        <div class = "row d-flex justify-content-center">
-            <div class = "col-sm-3">
-                <label for="uname"><b>Username</b></label><br>
-                <input type="text" name="uname" required>
-            </div>
-	        <div class = "col-sm-3">
-                <label for="psw"><b>Password</b></label>
-                <input type="password" name="psw" required>
-            </div>
-        </div>
-        <div class = "row">
-            <div class = "col-md-12" style = "text-align:center">
-                <button type="submit">Sign in</button>
-            </div>
-        </div>
-        <div class = "row">
-            <div class = "col-md-12" style = "text-align:center">
-                <a href ="#!" id = "fontQ">Sign Up</a>
-            </div>
-        </div>
-        <div class = "row">
-            <div class = "col-md-12" style = "text-align:center">
-                <a href ="#!" id = "fontQ">Forget Password</a>
+            <!-- Modal Header -->
+            <div class="modal-header">
+              <h4 class="modal-title">Add to Cart</h4>
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
             </div>
 
+            <!-- Modal body -->
+            <div class="modal-body">
+              Your item is added to cart.
+              <br>
+              <br>
+              <br>
+              <br>
+              Thank you and Enjoy your shopping.
+            </div>
+
+            <!-- Modal footer -->
+            <div class="modal-footer">
+              <button type="button" data-dismiss="modal">Close</button>
+            </div>
+
+          </div>
         </div>
-    </form>
+      </div>
+    </div>
+  </div>
 </div>
+
+
 <!-- Content End -->
 
 <!-- 2ndFooter-->
 
 <div class = "container" style = "padding-top:30px" align = "center">
 <blockquote class="blockquote">
-    <p>"When people get hurt, they learn to hate... When people hurt others, they become hated and racked with guilt. But knowing that pain allows people to be kind. Pain allows people to grow... and how you grow is up to you."</p>
+    <p>"Knowing what it feels to be in pain, is exactly why we try to be kind to others."</p>
     <footer class="blockquote-footer">Jiraiya from Naruto</footer>
   </blockquote>
 

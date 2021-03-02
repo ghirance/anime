@@ -24,7 +24,7 @@
 
   <!-- Logo -->
   <a class="navbar-brand mx-auto d-block" href="homepage.php">
-    <img src="logos.png" height = "60" style= "padding-right:30px">
+    <img src="Figures/logos.png" height = "60" style= "padding-right:30px">
   </a>
 
   <!-- Links -->
@@ -37,7 +37,7 @@
         </a>
       </li>
       <li class="nav-item">
-        <a href="shopnow.php" class="nav-link waves-effect">
+        <a href="all-products.php" class="nav-link waves-effect">
          Shop
         </a>
       </li>
@@ -48,16 +48,16 @@
       </li>
       <li class="nav-item">
         <a href="login.php">
-        <img src = "person_outline-24px.svg" style = "padding-top:5px">
+        <img src = "Figures/person_outline-24px.svg" style = "padding-top:5px">
         </a>
       </li>
       <li class="nav-item">
         <a href="#!" >
-          <img src = "local_mall-24px.svg" style = "padding-top:5px">
+          <img src = "Figures/local_mall-24px.svg" style = "padding-top:5px">
       </li>
       <li class="nav-item">
         <a href="#!" >
-          <img src = "search-24px.svg" style = "padding-top:5px">
+          <img src = "Figures/search-24px.svg" style = "padding-top:5px">
         </a>
       </li>
     </ul>
@@ -71,8 +71,8 @@
 <div class = "container">
     <div class = "row" style = "margin-top:10%;padding-top:10px;padding-bottom:5%" >
         <div class = "col-md-12" style = "text-align:center">
-            <h3>Contact</h3>
-        </div> 
+            <h3 id = "h3a">Contact</h3>
+        </div>
     </div>
     <div class = "row">
         <div class = "col-md-12">
@@ -86,12 +86,12 @@
                 Message: <br>
                 <textarea  style = "width:100%;padding-bottom:30vh"></textarea>
             </form>
-        </div>  
+        </div>
     </div>
     <div class = "row">
         <div class = "col-md-12" style = "text-align:center">
             <h5>Email:</h5>animestop@gmail.com<h5>Location:</h5>Malinao,Pasig City<h5>Phone:</h5>09123456789
-        </div> 
+        </div>
     </div>
 
 
@@ -100,7 +100,7 @@
 
 <!-- 2ndFooter-->
 
-<div class = "container" style = "padding-top:30px">
+<div class = "container" style = "padding-top:30px" align = "center">
 <blockquote class="blockquote">
     <p>"Knowing what it feels to be in pain, is exactly why we try to be kind to others."</p>
     <footer class="blockquote-footer">Jiraiya from Naruto</footer>
@@ -113,14 +113,14 @@
 <footer class="bg-light text-white bg-company-red ">
   <div class="container py-5 ">
     <div class="row " >
-      <div class="col-xl-3" id = "fontF"><a href = "homepage.php"><img src="logos.png" height = "60"></a></div>
+      <div class="col-xl-3" id = "fontF"><a href = "homepage.php"><img src="Figures/logos.png" height = "60"></a></div>
       <div class="col-xl-3"></div>
       <div class="col-xl-3"></div>
       <div class="col-xl-3" id = "fontF" >Let's Keep In Touch
-        <div> 
-          <a href = "#!"> <img src="fb.png" style = "height:24px"></a>
-          <a href = "#!"> <img src="twt.png" style = "height:24px"></a>
-        </div>  
+        <div>
+          <a href = "#!"> <img src="Figures/fb.png" style = "height:24px"></a>
+          <a href = "#!"> <img src="Figures/twt.png" style = "height:24px"></a>
+        </div>
       </div>
     </div>
   </div>
