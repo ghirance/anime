@@ -23,7 +23,7 @@
     </button>
 
     <!-- Logo -->
-    <a class="navbar-brand mx-auto d-block" href="homepage.php">
+    <a class="navbar-brand mx-auto d-block" href="#!">
       <img src="logos.png" height = "60" style= "padding-right:30px">
     </a>
 
@@ -32,22 +32,22 @@
       <!-- Right -->
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
-          <a href="homepage.php" class="nav-link waves-effect">
+          <a href="#!" class="nav-link waves-effect">
            Home
           </a>
         </li>
         <li class="nav-item">
-          <a href="shopnow.php" class="nav-link waves-effect">
+          <a href="#!" class="nav-link waves-effect">
            Shop
           </a>
         </li>
         <li class="nav-item">
-          <a href="contact.php" class="nav-link waves-effect">
+          <a href="#!" class="nav-link waves-effect">
             Contact
           </a>
         </li>
         <li class="nav-item">
-          <a href="login.php">
+          <a href="#!">
           <img src = "person_outline-24px.svg" style = "padding-top:5px">
           </a>
         </li>
@@ -72,11 +72,11 @@
     <br>
     <br>
 
-    <h1 class = "h1a" align = "center"> Merchandises </h1>
+    <h1 class = "h1a" align = "center"> Collectibles </h1>
     <div class="row ">
       <div class="col-sm container_foto ">
         <a href = "#!"  id = "fontQ">
-          <img src = "Figures/tshirts.jfif" class = "mx-auto d-block">
+          <img src = "Figures/giyu.jpg" class = "mx-auto d-block">
           <h3 class = "h1a">T-Shirts</h3>
         </a>
         <div class="ver_mas" id = "center">
@@ -86,7 +86,7 @@
 
       <div class="col-sm container_foto">
         <a href = "#!" id = "fontQ">
-          <img src = "Figures/hoodie.jpg" class = "mx-auto d-block" >
+          <img src = "Figures/nezuko.jpg" class = "mx-auto d-block" >
           <h3 class = "h1a">Hoodies</h3>
         </a>
         <div class="ver_mas" id = "center">
@@ -96,7 +96,7 @@
 
       <div class="col-sm container_foto">
         <a href = "#!" id = "fontQ">
-          <img src = "Figures/kimono.jpg" class = "mx-auto d-block " >
+          <img src = "Figures/zenitsu.jpg" class = "mx-auto d-block " >
           <h3 class = "h1a">Kimonos</h3>
         </a>
         <div class="ver_mas" id = "center">
@@ -106,7 +106,7 @@
 
       <div class="col-sm container_foto">
         <a href = "#!" id = "fontQ">
-          <img src = "Figures/collections.jpg" class = "mx-auto d-block " >
+          <img src = "Figures/tanjiro.jpg" class = "mx-auto d-block " >
           <h3 class = "h1a">Collectibles</h3>
         </a>
         <div class="ver_mas" id = "center">
@@ -120,7 +120,7 @@
   <footer class="bg-light text-white bg-company-red ">
     <div class="container py-5 ">
       <div class="row " >
-        <div class="col-xl-3" id = "fontF"><a href = "homepage.php"><img src="logos.png" height = "60"></a></div>
+        <div class="col-xl-3" id = "fontF"><img src="logos.png" height = "60"></div>
         <div class="col-xl-3"></div>
         <div class="col-xl-3"></div>
         <div class="col-xl-3" id = "fontF" >Let's Keep In Touch
@@ -140,5 +140,5 @@
   </footer>
   <!-- Footer End -->
 
-</body>
-</html>
+  </body>
+  </html>

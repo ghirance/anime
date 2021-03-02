@@ -68,7 +68,7 @@
 </div>
 <div class="box">
   <img src="video.gif" class = "img-responsive" alt="header image" style = "width:100%">
-  
+
 </div>
 <!-- Content -->
 <div class = "container-fluid">
@@ -253,9 +253,9 @@
 <div class = "container" style = "padding-top:30px">
 
   <blockquote class="blockquote">
-    <p>"Knowing what it feels to be in pain, is exactly why we try to be kind to others."</p>
-    <footer class="blockquote-footer">Jiraiya from Naruto</footer>
-  </blockquote>
+      <p class = "font-weight-light">"When people get hurt, they learn to hate... When people hurt others, they become hated and racked with guilt. But knowing that pain allows people to be kind. Pain allows people to grow... and how you grow is up to you."</p>
+      <footer class="blockquote-footer font-weight-bold">Jiraiya (Naruto)</footer>
+    </blockquote>
 </div>
 <!-- 2ndFooter End -->
 
